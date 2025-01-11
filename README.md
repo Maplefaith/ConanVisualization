@@ -6,8 +6,6 @@
 
 Demo has been published on [Bilibili](https://www.bilibili.com/video/BV1g56zYMErv), you are free to check it.
 
-Our main code lies in `./src`. The Project has been releaced on [Conan Visualization](https://maplefaith.github.io/ConanVisualization/).
-
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
