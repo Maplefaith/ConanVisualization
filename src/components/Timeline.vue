@@ -91,7 +91,7 @@ const {timelineData, transitionPointData, NumberItemperline, canvasheight, canva
 
 // Options to be selected
 const unselectedOptions = ref<string[]>([
-  // 'begin',
+  'begin',
   'Shelly',
   'Boss',
   'Rye whiskey',
